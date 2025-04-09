@@ -1,0 +1,1 @@
+MP3AudioPP720p60, Python ile geliştirilmiş bir müzik dinleme programıdır. Bu programda yapmanız gereken tek şey, MP3 formatındaki müziği sürükleyip bırakmaktır. Müziği attığınızda, otomatik olarak çalmaya başlar. Şu anda amatör bir hali olabilir, ancak zamanla bunu geliştireceğim.
